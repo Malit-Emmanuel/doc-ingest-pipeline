@@ -1,0 +1,18 @@
+Data Retention Guideline
+
+Mwangaza Savings Bank is a fictional institution used for demonstration only.
+
+Purpose
+This guideline sets out how long customer records are kept and how they are disposed of. Records are kept only for as long as they are needed for the purpose they were collected for, or for as long as the law requires.
+
+Retention periods
+Account opening documents are kept for seven years after the account is closed. Transaction records are kept for seven years from the date of the transaction. Marketing consent records are kept for as long as the consent is valid and for two years after it is withdrawn. Call recordings are kept for ninety days unless they are linked to a complaint, in which case they are kept until the complaint is resolved and for one year after.
+
+Disposal
+When a retention period ends, records are deleted from production systems within thirty days and from backups within the next backup cycle. Paper records are shredded on site. Every disposal is logged with the record type, the date and the officer responsible.
+
+Exceptions
+A legal hold suspends disposal. The Legal department records each hold and releases it in writing. Records under a legal hold must not be altered or deleted.
+
+Review
+The Data Protection Officer reviews this guideline every year and after any change in the law.
